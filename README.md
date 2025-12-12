@@ -1,5 +1,5 @@
 NOTE: Order of code execution is presented as index (I, II or 1, 2). Order doesn't matter in folders with no indexing
-# AUTOMATED FINANCIAL DATA PIPELINE (PRICES AND FUNDAMENTALS)
+# PIT-Fundamental-Signal-Reconstruction
 ## Project Overview
 This project implements an automated **financial data pipeline** that cleans, enriches, and aggregates stock price and fundamental data for analysis. The pipeline processes data for **73** Vietnamese companies from **2020 to 2025**, handling multiple financial statements and automatically resolving temporal mismatches between price and fundamental data.
 
